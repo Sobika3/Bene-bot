@@ -1,0 +1,28 @@
+.chatbox {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .chat-history {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .chat-message {
+    padding: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .user-message {
+    display: flex;
+    align-items: center;
+  }
+  
+  #user-message {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
